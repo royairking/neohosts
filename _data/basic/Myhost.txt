@@ -13,3 +13,5 @@ monitor.boooba.com
 baijiahao.baidu.com
 tuisong.baidu.com
 reports.baidu.com
+haokan.baidu.com
+mo.baidu.com
