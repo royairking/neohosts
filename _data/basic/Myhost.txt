@@ -1,13 +1,13 @@
 
 
 
-127.0.0.1 9.rarbg.me
-127.0.0.1 eimg.smzdm.com
-127.0.0.1 mbd.baidu.com
-127.0.0.1 xbox.360game.360.cn
-127.0.0.1 *.52pcfree.com
-127.0.0.1 yingxiao.baidu.com
-127.0.0.1 tip.f.360.cn
-127.0.0.1 se.warning.360.cn
-127.0.0.1 monitor.boooba.com
+9.rarbg.me
+eimg.smzdm.com
+mbd.baidu.com
+xbox.360game.360.cn
+52pcfree.com
+yingxiao.baidu.com
+tip.f.360.cn
+se.warning.360.cn
+monitor.boooba.com
 
