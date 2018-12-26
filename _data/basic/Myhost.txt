@@ -12,3 +12,4 @@ se.warning.360.cn
 monitor.boooba.com
 baijiahao.baidu.com
 tuisong.baidu.com
+reports.baidu.com
