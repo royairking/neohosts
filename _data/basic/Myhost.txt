@@ -15,3 +15,4 @@ tuisong.baidu.com
 reports.baidu.com
 haokan.baidu.com
 mo.baidu.com
+sug.so.360.cn
