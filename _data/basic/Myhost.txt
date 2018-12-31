@@ -24,6 +24,11 @@ qurl.f.360.cn
 yj.52pcfree.com
 upd.52pcfree.com
 info.52pcfree.com
+tracker2.wps.cn
+tracker3.wps.cn
+
+#迅雷系
+pay.xunlei.com
 
 #微商等
 9.rarbg.me
