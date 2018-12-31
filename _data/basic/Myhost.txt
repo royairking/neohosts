@@ -30,6 +30,24 @@ tracker3.wps.cn
 
 #迅雷系
 pay.xunlei.com
+hub5btmain.sandai.net
+hub5emu.sandai.net
+liveupdate.mac.sandai.net
+hub5u.sandai.net
+hub5t.sandai.net
+hub5pr.sandai.net
+service.lixian.vip.xunlei.com
+viphub5pr.phub.sandai.net
+hub5sr.sandai.net
+hub5c.sandai.net
+hub5p.sandai.net
+hubstat.sandai.net
+reg2t.sandai.net
+spctrl.sandai.net
+imhub5pr.sandai.net
+bwcheck.sandai.net
+hubciddata.sandai.net
+ 
 
 #微商等
 9.rarbg.me
