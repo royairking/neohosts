@@ -18,6 +18,7 @@ tip.f.360.cn
 se.warning.360.cn
 sug.so.360.cn
 qurl.f.360.cn
+s.f.360.cn
 
 #金山系
 
