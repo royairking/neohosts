@@ -30,6 +30,8 @@ simage.jomodns.com
 mbdcdn.jomodns.com
 timg.jomodns.com
 portait.jomodns.com
+qianbao.baidu.com
+baifubao.baidu.com
 
 #360系
 sconf.f.360.cn
